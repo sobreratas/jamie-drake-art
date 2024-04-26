@@ -151,19 +151,19 @@ h2 {
 
 @keyframes animate {
   0% {
-    background-image: url(/images/header-background.jpg);
+    background-image: url("images/header-background.jpg");
   }
 
   25% {
-    background-image: url(/images/header-background-2.jpg);
+    background-image: url("images/header-background-2.jpg");
   }
 
   50% {
-    background-image: url(/images/header-background-3.jpg);
+    background-image: url("images/header-background-3.jpg");
   }
 
   75% {
-    background-image: url(/images/header-background-4.jpg);
+    background-image: url("images/header-background-4.jpg");
   }
 }
 
