@@ -776,7 +776,7 @@ h2 {
 #murmurations-section img {
   padding: 20px;
   width: 30%;
-  opacity: .2;
+  opacity: .9;
   margin-bottom: 20px;
   animation: rotateBackground 60s linear infinite; /* Adjust timing as needed */
 }
